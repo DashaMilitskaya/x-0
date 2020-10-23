@@ -1,0 +1,7 @@
+﻿  main.cpp
+  model.cpp
+  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> C:\Users\Даша\source\repos\Project3\x64\Debug\Project3.exe
